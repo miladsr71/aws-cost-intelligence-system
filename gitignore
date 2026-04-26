@@ -1,0 +1,27 @@
+# data files
+*.csv
+
+# chart images
+*.png
+
+# dashboard output
+dashboard.html
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# aws credentials - never push these
+.aws/
+*.pem
+
+# mac files
+.DS_Store
+
+# cron log
+cron.log
+
+# ide files
+.vscode/
+.idea/
